@@ -1,0 +1,15 @@
+h1{
+    border-width: 2px;
+    font-size: 14mm;
+    font-family: cursive;
+}
+
+p{
+    border-style: solid; 
+    font-size: 4mm;
+    font-family: cursive; 
+}
+img{
+    border-style: solid; 
+}
+
